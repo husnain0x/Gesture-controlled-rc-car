@@ -2,7 +2,7 @@
 
 > Control a car with hand gestures — no buttons, no joystick.
 
-Control a car with hand gestures using MPU6050 and NRF24L01
+Using MPU6050 and NRF24L01
 
 ## 📌 Overview
 This project uses hand tilt angles detected by the MPU6050
